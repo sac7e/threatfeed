@@ -12,7 +12,7 @@ setup(
     name='threatfeed',
     license = 'MIT',
     author = 'Shihang Zhang',
-    author_email = 'hi@sac7e.me',
+    author_email = 'foobar@sac7e.me',
     version='0.1',
     url = 'https://github.com/sac7e/threatfeed',
     packages = find_packages(),
